@@ -1,0 +1,114 @@
+{
+  "categories": [
+    {
+      "name": "Pizza",
+      "description": "Hand-tossed pizzas baked to perfection with our signature sauces.",
+      "subcategories": [
+        {
+          "name": "Meal Deal Pizza",
+          "items": [
+            {
+              "id": "pizza-meal-12",
+              "name": "12-inch Meal Deal Pizza",
+              "description": "Loaded with pepperoni, sausage, and extra cheese.",
+              "price": 14.99
+            },
+            {
+              "id": "pizza-meal-10",
+              "name": "10-inch Meal Deal Pizza",
+              "description": "A flavorful combo with premium toppings for smaller appetites.",
+              "price": 12.49
+            }
+          ]
+        },
+        {
+          "name": "Margherita Pizza",
+          "items": [
+            {
+              "id": "pizza-margherita-classic",
+              "name": "Classic Margherita Pizza",
+              "description": "Fresh mozzarella, basil, and ripe tomatoes on thin crust.",
+              "price": 11.99
+            },
+            {
+              "id": "pizza-margherita-spicy",
+              "name": "Spicy Margherita Pizza",
+              "description": "Classic margherita with a chili-garlic kick.",
+              "price": 13.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Burger",
+      "description": "Juicy patties stacked with toppings and served on toasted brioche buns.",
+      "subcategories": [
+        {
+          "name": "Signature Burgers",
+          "items": [
+            {
+              "id": "burger-chicken-classic",
+              "name": "Classic Chicken Burger",
+              "description": "Crispy chicken fillet, lettuce, and creamy mayo.",
+              "price": 9.99
+            },
+            {
+              "id": "burger-zinger",
+              "name": "Zinger Burger",
+              "description": "Spicy fried chicken with pickles and tangy sauce.",
+              "price": 10.49
+            },
+            {
+              "id": "burger-veggie",
+              "name": "Garden Veggie Burger",
+              "description": "Grilled veggie patty with avocado and tomato relish.",
+              "price": 8.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sides & Drinks",
+      "description": "Pair your meal with crispy sides and refreshing beverages.",
+      "subcategories": [
+        {
+          "name": "Sides",
+          "items": [
+            {
+              "id": "side-fries",
+              "name": "Seasoned Fries",
+              "description": "Golden fries tossed in our house seasoning.",
+              "price": 4.49
+            },
+            {
+              "id": "side-wings",
+              "name": "Buffalo Wings",
+              "description": "Six wings coated in spicy buffalo sauce.",
+              "price": 7.49
+            }
+          ]
+        },
+        {
+          "name": "Drinks",
+          "items": [
+            {
+              "id": "drink-cola",
+              "name": "Craft Cola",
+              "description": "Fizzy cola with natural cane sugar.",
+              "price": 2.49
+            },
+            {
+              "id": "drink-lemonade",
+              "name": "House Lemonade",
+              "description": "Freshly squeezed lemons with a hint of mint.",
+              "price": 2.99
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

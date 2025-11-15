@@ -1,0 +1,40 @@
+:root {
+  color-scheme: light;
+  font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  background-color: #f8f9fa;
+}
+
+body {
+  margin: 0;
+  background-color: #f8f9fa;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.menu-page {
+  background: linear-gradient(180deg, rgba(248, 249, 250, 0.9), rgba(255, 255, 255, 1));
+}
+
+.menu-intro {
+  max-width: 720px;
+}
+
+.pizza-offer {
+  max-width: 720px;
+}
+
+.category-description {
+  max-width: 420px;
+}
+
+.menu-card {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.menu-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 1.25rem 1.5rem rgba(33, 37, 41, 0.08);
+}
+
