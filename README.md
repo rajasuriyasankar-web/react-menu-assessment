@@ -68,8 +68,4 @@ npm run build
 - JSON  
 - CSS
 
----
 
-## Developer
-Rajasuriya Sankar  
-React.js Developer
